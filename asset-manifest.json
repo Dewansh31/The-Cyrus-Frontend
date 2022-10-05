@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/The-Cyrus-Frontend/static/css/main.5b9161fc.css",
+    "main.js": "/The-Cyrus-Frontend/static/js/main.82acb6d3.js",
+    "static/js/787.cda612ba.chunk.js": "/The-Cyrus-Frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/Music.png": "/The-Cyrus-Frontend/static/media/Music.6e806dc955c719ec6063.png",
+    "static/media/The Cyrus img.png": "/The-Cyrus-Frontend/static/media/The Cyrus img.420d17dd7a65403cc8ed.png",
+    "static/media/band1.jpeg": "/The-Cyrus-Frontend/static/media/band1.a23fcb5119da22334ca6.jpeg",
+    "static/media/band2.jpeg": "/The-Cyrus-Frontend/static/media/band2.d599c6fdfd3c38a96d50.jpeg",
+    "static/media/band.webp": "/The-Cyrus-Frontend/static/media/band.9064cce32b36a066d481.webp",
+    "static/media/TC.png": "/The-Cyrus-Frontend/static/media/TC.c72dcd8349ff0af68bcd.png",
+    "index.html": "/The-Cyrus-Frontend/index.html",
+    "main.5b9161fc.css.map": "/The-Cyrus-Frontend/static/css/main.5b9161fc.css.map",
+    "main.82acb6d3.js.map": "/The-Cyrus-Frontend/static/js/main.82acb6d3.js.map",
+    "787.cda612ba.chunk.js.map": "/The-Cyrus-Frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9161fc.css",
+    "static/js/main.82acb6d3.js"
+  ]
+}
